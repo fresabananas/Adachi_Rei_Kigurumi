@@ -1,6 +1,6 @@
 ### Overview
 
-This repository is meant to help document my successes and failures as I attempt to DIY an Adachi Rei animegao mask.
+This repository is meant to help document my successes rand failures as I attempt to DIY an Adachi Rei animegao mask.
 
 Some features I want to incorporate into the mask:
 
@@ -14,3 +14,7 @@ Some features I want to incorporate into the mask:
 - [Kigurumi Handbook](https://kigguide.com/social.html)
 
 - [Kigurumi Shrine Discord](https://discord.com/invite/kigurumishrine)
+
+### Files
+
+- [Reid Kigurumi Model edited](https://makerworld.com/en/models/1118558-red-basic-kigurumi-head-shell#profileId-1116402)
